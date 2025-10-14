@@ -7,5 +7,8 @@ examples/hello/hello
 examples/helloworld/helloworld
 website/public/
 
+.idea
+.vscode
+
 # Binaries produced by [go test] when passed -c or a profiling option.
 *.test
